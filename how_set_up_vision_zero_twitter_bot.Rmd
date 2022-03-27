@@ -10,6 +10,10 @@ date: "`r Sys.Date()`"
 repository_url: https://github.com/vgXhc/vision_zero_bot_howto
 compare_updates_url:
 creative_commons: CC BY-SA
+categories:
+  - Vision Zero
+  - Madison (WI)
+  - Twitter
 output: 
   distill::distill_article:
     toc: true
